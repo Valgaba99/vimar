@@ -1,0 +1,5 @@
+ 
+
+
+   qDebug()<< this->metaObject()->className();
+      
